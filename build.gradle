@@ -19,8 +19,8 @@ buildscript {
 }
 
 allprojects {
-    version = VERSION_NAME
-    group = GROUP
+    version = '1.0'
+    group = 'com.github.454126389'
     repositories {
         jcenter()
         maven {
