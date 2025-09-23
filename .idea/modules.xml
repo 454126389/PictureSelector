@@ -2,10 +2,19 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/PictureSelector.iml" filepath="$PROJECT_DIR$/PictureSelector.iml" />
-      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
-      <module fileurl="file://$PROJECT_DIR$/picture_library/picture_library.iml" filepath="$PROJECT_DIR$/picture_library/picture_library.iml" />
-      <module fileurl="file://$PROJECT_DIR$/ucrop/ucrop.iml" filepath="$PROJECT_DIR$/ucrop/ucrop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/PictureSelector.iml" filepath="$PROJECT_DIR$/.idea/modules/PictureSelector.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/PictureSelector.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/PictureSelector.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/PictureSelector.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/PictureSelector.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/PictureSelector.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/PictureSelector.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/PictureSelector.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/PictureSelector.app.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/picture_library/PictureSelector.picture_library.iml" filepath="$PROJECT_DIR$/.idea/modules/picture_library/PictureSelector.picture_library.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/picture_library/PictureSelector.picture_library.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/picture_library/PictureSelector.picture_library.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/picture_library/PictureSelector.picture_library.main.iml" filepath="$PROJECT_DIR$/.idea/modules/picture_library/PictureSelector.picture_library.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/picture_library/PictureSelector.picture_library.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/picture_library/PictureSelector.picture_library.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ucrop/PictureSelector.ucrop.iml" filepath="$PROJECT_DIR$/.idea/modules/ucrop/PictureSelector.ucrop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ucrop/PictureSelector.ucrop.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/ucrop/PictureSelector.ucrop.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ucrop/PictureSelector.ucrop.main.iml" filepath="$PROJECT_DIR$/.idea/modules/ucrop/PictureSelector.ucrop.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ucrop/PictureSelector.ucrop.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/ucrop/PictureSelector.ucrop.unitTest.iml" />
     </modules>
   </component>
 </project>
