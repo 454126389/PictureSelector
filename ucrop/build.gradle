@@ -1,4 +1,7 @@
 apply plugin: 'com.android.library'
+apply plugin: 'com.github.dcendents.android-maven' // 应用插件
+
+group = 'com.github.454126389' // 替换为你的 GitHub 用户名
 
 android {
     compileSdkVersion cfgs.compileSdkVersion

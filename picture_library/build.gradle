@@ -1,4 +1,7 @@
 apply plugin: 'com.android.library'
+apply plugin: 'com.github.dcendents.android-maven' // 应用插件
+
+group = 'com.github.454126389' // 替换为你的 GitHub 用户名
 
 android {
     compileSdkVersion cfgs.compileSdkVersion
@@ -7,8 +10,11 @@ android {
     defaultConfig {
         minSdkVersion cfgs.minSdkVersion
         targetSdkVersion cfgs.targetSdkVersion
-        versionCode 1
-        versionName "1.0.0"
+        versionCode 24
+        versionName "2.2.4-non-native"
+
+        vectorDrawables.useSupportLibrary = true
+
     }
 
     buildTypes {
@@ -24,6 +30,11 @@ android {
     lintOptions {
         abortOnError false
     }
+
+    lintOptions {
+        abortOnError false
+    }
+
 }
 
 dependencies {
